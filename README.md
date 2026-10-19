@@ -28,7 +28,4 @@ python -m pip install -r requirements.txt
 python main.py
 ```
 
-## Important reproducibility note
-The supplied Q-table and demo are a reference artifact. Execute the notebook or `main.py` in your own runtime to regenerate results on that runtime. Record the actual printed evaluation success rate in your submitted report if it differs.
-
 
